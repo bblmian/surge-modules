@@ -1,6 +1,5 @@
 #!name=国内 AI 直连
 #!desc=豆包/火山引擎走直连，避免代理拖慢 TLS
-#!system=ios
 
 [Rule]
 DOMAIN-SUFFIX,volces.com,DIRECT
